@@ -1,5 +1,6 @@
 ### Welcome! 👋
 
+## 🛠️ Technologies
 <div float="left">
       <img src="https://github.com/jeanmoissa/files/html.png" width="50">
       <img src="https://github.com/jeanmoissa/files/css.png" width="50">
@@ -20,7 +21,7 @@
 ## ❤️ Let's get connected:
 <div float="left">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](https://www.linkedin.com/in/jeancarlosmoissa/)\
+  [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlosmoissa/)](https://www.linkedin.com/in/jeancarlosmoissa/)\
   [![Gmail Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](mailto:jeanmoissa@gmail.com)
   
 </div>
