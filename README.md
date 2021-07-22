@@ -20,8 +20,8 @@
 ## ❤️ Let's get connected:
 <div float="left">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-guilhermeguidolin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-guidolin/)](https://www.linkedin.com/in/guilherme-guidolin/)\
-  [![Gmail Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](mailto:jeanmoissa@gmail.com)\
+  [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](https://www.linkedin.com/in/jeancarlosmoissa/)\
+  [![Gmail Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](mailto:jeanmoissa@gmail.com)
   
 </div>
 
