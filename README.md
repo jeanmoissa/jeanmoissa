@@ -2,11 +2,11 @@
 
 ## 🛠️ Technologies
 <div float="left">
-      <img src="https://github.com/jeanmoissa/files/html.png" width="50">
-      <img src="https://github.com/jeanmoissa/files/css.png" width="50">
-      <img src="https://github.com/jeanmoissa/files/javascript.png" width="50">
-      <img src="https://github.com/jeanmoissa/files/mysql.png" width="50">
-      <img src="https://github.com/jeanmoissa/files/java.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="50">
 </div>
 
 <br/>
