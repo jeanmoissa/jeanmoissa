@@ -18,7 +18,7 @@
   
 <div float="left">
   
-## ❤️ Let's get connected:
+## 📫 Let's get connected:
 <div float="left">
   
   [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlosmoissa/)](https://www.linkedin.com/in/jeancarlosmoissa/)\
