@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-## 🛠️ Technologies
+## 🎧💻 Technologies
 
 
 <br/>
