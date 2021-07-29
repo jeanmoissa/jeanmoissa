@@ -29,9 +29,15 @@
 <div float="left">     
 ## 📫 Let's get connected:
 
-  
+  <!--
   [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlosmoissa/)](https://www.linkedin.com/in/jeancarlosmoissa/)\
-  [![Gmail Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](mailto:jeanmoissa@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](mailto:jeanmoissa@gmail.com) -->
+  
+  <a href="https://instagram.com/jeanmoissa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href = "mailto:jeanmoissa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/jeancarlosmoissa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
