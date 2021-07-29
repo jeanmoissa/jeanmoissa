@@ -12,24 +12,23 @@
 -->  
 
   <a href="https://github.com/jeanmoissa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=dark"/>
   
 </div>  
   
-<div float="left">
-
 <div float="left">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="50">
 </div>      
       
-      
+<div float="left">     
 ## 📫 Let's get connected:
-<div float="left">
+
   
   [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlosmoissa/)](https://www.linkedin.com/in/jeancarlosmoissa/)\
   [![Gmail Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](mailto:jeanmoissa@gmail.com)
