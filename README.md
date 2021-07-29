@@ -1,13 +1,7 @@
 ### Welcome! 👋
 
 ## 🛠️ Technologies
-<div float="left">
-      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
-      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="50">
-      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="50">
-      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="50">
-      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="50">
-</div>
+
 
 <br/>
 
@@ -17,7 +11,16 @@
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=vue)
   
 <div float="left">
-  
+
+<div float="left">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="50">
+</div>      
+      
+      
 ## 📫 Let's get connected:
 <div float="left">
   
