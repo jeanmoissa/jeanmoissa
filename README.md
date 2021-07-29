@@ -6,9 +6,16 @@
 <br/>
 
 <div float="left">
-  
+  <!--
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&show_icons=true&theme=vue)
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=vue)
+-->  
+
+  <a href="https://github.com/jeanmoissa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=dracula"/>
+  
+</div>  
   
 <div float="left">
 
