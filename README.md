@@ -28,10 +28,8 @@
       
 <div float="left">     
 ## 📫 Let's get connected:
-
-  <!--
-  [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlosmoissa/)](https://www.linkedin.com/in/jeancarlosmoissa/)\
-  [![Gmail Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](mailto:jeanmoissa@gmail.com) -->
+<br>
+  
   
   <a href="https://instagram.com/jeanmoissa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
@@ -41,9 +39,10 @@
   
 </div>
 
-
-
-
+<!--
+  [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlosmoissa/)](https://www.linkedin.com/in/jeancarlosmoissa/)\
+  [![Gmail Badge](https://img.shields.io/badge/-jeanmoissa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeanmoissa@gmail.com)](mailto:jeanmoissa@gmail.com) -->
+  
 <!--
 **jeanmoissa/jeanmoissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
