@@ -17,7 +17,8 @@
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=merko)](https://github.com/jeanmoissa/github-readme-stats)
   
-  [![Jean's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeanmoissa)](https://github.com/jeanmoissa/github-readme-stats)
+  [![Jeanmoissa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeanmoissa)](https://github.com/jeanmoissa/github-readme-stats)
+  
     
 </div>  
   
