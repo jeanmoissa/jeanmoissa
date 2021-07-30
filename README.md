@@ -16,10 +16,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=merko"/>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=merko)](https://github.com/jeanmoissa/github-readme-stats)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanmoissa&repo=github-readme-stats)](https://github.com/jeanmoissa/github-readme-stats)
-  
-    
+
 </div>  
   
 <div float="left">
