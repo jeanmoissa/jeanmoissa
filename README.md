@@ -15,11 +15,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=merko"/>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=merko)](https://github.com/jeanmoissa/github-readme-stats)
-
-</div>  
   
-<div float="left">
+
+</div>
+  
+  <div float="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=merko)](https://github.com/jeanmoissa/github-readme-stats)
+  </div>
+
+  <div float="left">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
