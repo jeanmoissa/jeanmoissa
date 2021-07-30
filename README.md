@@ -36,7 +36,7 @@
 </div>      
       
 <div float="left">
-<br><br>
+<br>
 ## 📫 Let's get connected:
 <br><br>
   
