@@ -25,7 +25,7 @@
  
 
   <div float="left">
-      <img spam="style=border:'2px solid white'" src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="50">
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="50">
