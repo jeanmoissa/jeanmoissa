@@ -19,9 +19,9 @@
 
 </div>
   
-  <div float="center">
+  
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=merko)](https://github.com/jeanmoissa/github-readme-stats)
-  </div>
+ 
 
   <div float="left">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="50">
