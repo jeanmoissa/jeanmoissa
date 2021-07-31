@@ -45,9 +45,9 @@
   
 </div>
   
-<div>
+
   ![Snake animation](https://github.com/jeanmoissa/workflows/cobrinha.yml)
-</div>  
+
 
 <!--
   [![Linkedin Badge](https://img.shields.io/badge/-jeanmoissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancarlosmoissa/)](https://www.linkedin.com/in/jeancarlosmoissa/)\
