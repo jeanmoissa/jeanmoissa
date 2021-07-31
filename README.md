@@ -46,7 +46,7 @@
 </div>
   
 <div>
-  ![Snake animation](https://github.com/jeanmoissa/jeanmoissa/tree/main/files/cobrinha.yml)
+  ![Snake animation](https://github.com/jeanmoissa/workflows/cobrinha.yml)
 </div>  
 
 <!--
