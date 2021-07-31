@@ -46,7 +46,7 @@
 </div>
   
 <div>
-  ![Snake animation](https://github.com/jeanmoissa/jeanmoissa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jeanmoissa/jeanmoissa/tree/main/files/cobrinha.yml)
 </div>  
 
 <!--
