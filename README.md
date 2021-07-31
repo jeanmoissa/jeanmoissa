@@ -2,29 +2,16 @@
 
 ## 🎧💻 Technologies
 
-
 <br/>
 
 <div float="left">
-  <!--
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&show_icons=true&theme=vue)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=vue)
--->  
-
-  <a href="https://github.com/jeanmoissa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=merko"/>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=merko)](https://github.com/jeanmoissa/github-readme-stats)
-
-
+      <a href="https://github.com/jeanmoissa">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=merko"/>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=merko)](https://github.com/jeanmoissa/github-readme-stats)
 </div>
-  
-  
-    
- 
 
-  <div float="left">
+<div float="left">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="50">
       <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="50">
@@ -36,13 +23,12 @@
 </div>      
       
 <div float="left">
-<br>
-## 📫 Let's get connected:
-<br><br>
-  
-  
-  <a href="https://instagram.com/jeanmoissa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:jeanmoissa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jeancarlosmoissa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/jeanmoissa/workflows/cobrinha.yml)
+    <br>
+    ## 📫 Let's get connected:
+    <br><br>
+
+
+    <a href="https://instagram.com/jeanmoissa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:jeanmoissa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jeancarlosmoissa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
 
