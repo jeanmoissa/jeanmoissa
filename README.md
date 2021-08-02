@@ -6,10 +6,10 @@
 
 <div float="left">
 <a href="https://github.com/jeanmoissa">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=onedark"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=merko)](https://github.com/jeanmoissa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=onedark)](https://github.com/jeanmoissa/github-readme-stats)
 </div>
 
 <div float="left">
