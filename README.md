@@ -10,6 +10,8 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=onedark"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=onedark)](https://github.com/jeanmoissa/github-readme-stats)
+      
+      <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="150">
 </div>
 
 <div float="left">
@@ -21,7 +23,7 @@
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="50">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="50">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="50">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="150">
+
 </div>      
       
 <div float="left">
