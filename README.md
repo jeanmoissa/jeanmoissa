@@ -11,7 +11,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=onedark"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=onedark)](https://github.com/jeanmoissa/github-readme-stats)
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" align="right" width="150">      
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" align="right" width="300">      
       
 </div>
 
@@ -28,13 +28,10 @@
 
 </div>
       
-
-      
 <div float="left">
 <br>
 ## 📫 Let's get connected:
-
-<br><br>
+<br>
 
 
 <a href="https://www.linkedin.com/in/jeancarlosmoissa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/jeanmoissa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:jeanmoissa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
