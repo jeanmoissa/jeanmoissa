@@ -26,11 +26,11 @@
       
 </div>
       
-      <div float "center">
+<div float "right">
             <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="150">
-      </div>
+</div>
       
-<div float="left">
+<div float="right">
 <br>
 ## 📫 Let's get connected:
 <br><br>
