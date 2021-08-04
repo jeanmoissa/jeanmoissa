@@ -5,7 +5,7 @@
 <br/>
 <div float "right">
       
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="450">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="100">
       
 </div>
 
