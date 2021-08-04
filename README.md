@@ -23,10 +23,12 @@
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="50">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="50">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="50">
+      
+</div>
+      
       <div float "center">
             <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="150">
       </div>
-</div>      
       
 <div float="left">
 <br>
