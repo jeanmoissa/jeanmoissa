@@ -28,7 +28,7 @@
       
 <div float "right">
       
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="150">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="300">
       
 </div>
       
