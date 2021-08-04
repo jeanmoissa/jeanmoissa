@@ -3,6 +3,11 @@
 ## 🎧💻 Technologies
 
 <br/>
+<div float "right">
+      
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="450">
+      
+</div>
 
 <div float="left">
 <a href="https://github.com/jeanmoissa">
@@ -26,11 +31,7 @@
       
 </div>
       
-<div float "right">
-      
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" float="right" width="450">
-      
-</div>
+
       
 <div float="left">
 <br>
