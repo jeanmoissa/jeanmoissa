@@ -11,7 +11,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=onedark"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=onedark)](https://github.com/jeanmoissa/github-readme-stats)
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" align="right" width="700">      
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" align="right" width="200">      
       
 </div>
 
