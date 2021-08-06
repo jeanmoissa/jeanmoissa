@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-## 🎧💻 Technologies
+## 🎧💻 Studyinf for being a Full Stac Developer !!!
 
 <br/>
 
