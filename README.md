@@ -7,9 +7,7 @@
 
 <div float="left">
 <a href="https://github.com/jeanmoissa">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-
-     
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=onedark"/>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" align="right" width="200">
   
@@ -30,7 +28,7 @@
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="50">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="50">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="50">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif" align="right" width="200"> 
+
 </div>
       
 <div float="left">
