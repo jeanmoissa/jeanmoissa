@@ -1,6 +1,6 @@
-### Welcome to my profile! 👋
+## Welcome to my profile! 👋
 
-## 🎧💻 Studying for being a Full Stack Developer !!!
+### 🎧💻 Studying for being a Full Stack Developer !!!
 
 <br/>
 
