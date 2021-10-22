@@ -12,9 +12,9 @@
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/code.gif"  width="200">
 -->
  
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=onedark)](https://github.com/jeanmoissa/github-readme-stats)
--->    
+    
 </div>
 
 <div float="left">
