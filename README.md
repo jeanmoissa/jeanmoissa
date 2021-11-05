@@ -8,7 +8,7 @@
 
 <a href="https://github.com/jeanmoissa">
  
- <img src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="300" height="200" >
+ <img src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="100" height="80" >
  
  <!--
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
