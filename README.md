@@ -8,7 +8,7 @@
 
 <a href="https://github.com/jeanmoissa">
  
- <img src="https://assets.razerzone.com/eedownloads/desktop-wallpapers/razer_vault_1920x1080.png?_ga=2.260115149.1327068356.1636071968-533068255.1636071968" width="500" height="600" >
+ <img src="https://assets.razerzone.com/eedownloads/desktop-wallpapers/razer_vault_1920x1080.png?_ga=2.260115149.1327068356.1636071968-533068255.1636071968" width="300" height="200" >
  
  <!--
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
