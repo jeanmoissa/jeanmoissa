@@ -2,8 +2,8 @@
 
 ## Jean Carlos Moissa
 <div>
-💻 Conhecimentos:
-<br>
+💻 Conhecimento:
+<br><br>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
