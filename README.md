@@ -4,14 +4,16 @@
 <div>
 💻 Conhecimentos:
 <br>
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="30">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="30">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="30">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="30">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="30">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="30">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="30">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="30">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="30" margin-left="3px">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="30" margin-left="3px">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="30" margin-left="3px">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="30" margin-left="3px">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="30" margin-left="3px">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="30" margin-left="3px">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="30" margin-left="3px">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="30" margin-left="3px">
+ <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/vs.png" width="30" margin-left="3px">
+ <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/vscode.png" width="30" margin-left="3px">
 </div>
 <div>
  <br>
