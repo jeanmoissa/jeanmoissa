@@ -1,7 +1,9 @@
 <div float="left">
 
 ## Jean Carlos Moissa
-<div font-size="20px">
+ 
+<img src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="150" height="100" > 
+<div>
 💻 Conhecimento:
 <br><br>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px">
@@ -43,7 +45,7 @@
 
 <a href="https://github.com/jeanmoissa">
  
- <img src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="150" height="100" >
+ 
  
  
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
