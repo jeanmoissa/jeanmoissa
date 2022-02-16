@@ -1,7 +1,7 @@
 <div float="left">
 
 ## Jean Carlos Moissa
-<div>
+<div font-size="20px">
 💻 Conhecimento:
 <br><br>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px">
