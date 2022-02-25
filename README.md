@@ -2,7 +2,7 @@
 
 ## Jean Carlos Moissa
  
- <img src="https://www.seotactica.com/wp-content/uploads/2020/03/wallpaper_java-crop.jpg" height="100">
+ <img src="https://www.seotactica.com/wp-content/uploads/2020/03/wallpaper_java-crop.jpg">
  
 <!-- <img src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="150" height="100" >  -->
 <div>
