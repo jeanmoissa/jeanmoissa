@@ -3,7 +3,7 @@
 ## Jean Carlos Moissa
  
  <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/wallpaper_java-crop.jpg">
- <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/Wallpaper-c-sharp2022.jpg" height="100">
+ <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/Wallpaper-c-sharp2022.jpg" height="300">
  
 
  
