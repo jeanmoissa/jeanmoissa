@@ -2,9 +2,10 @@
 
 ## Jean Carlos Moissa
  
+ <!--
  <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/wallpaper_java-crop.jpg">
  <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/Wallpaper-c-sharp2022.jpg" height="300" width="100%">
- 
+ -->
 
  
 <!-- <img src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="150" height="100" >  -->
