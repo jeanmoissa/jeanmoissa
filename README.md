@@ -1,13 +1,13 @@
 <div float="left">
 
 ## Jean Carlos Moissa 
- 
- <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/wallpaper_java-crop.jpg">
- <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/Wallpaper-c-sharp2022.jpg" height="300" width="100%">
- 
-
- 
+<!-- 
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/wallpaper_java-crop.jpg">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/Wallpaper-c-sharp2022.jpg" height="300" width="100%">
 <img src="https://www.seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" width="150" height="100" >
+ -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&theme=onedark)](https://github.com/jeanmoissa/github-readme-stats)
+ 
 <div>
 💻 Conhecimento:
 <br><br>
@@ -41,17 +41,10 @@
 
 <!-- 
 ## Welcome to my profile! 👋
-
 ### 🎧💻
-
 <br/>
-
 <div float="left">
-
 <a href="https://github.com/jeanmoissa">
- 
- 
- 
  
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=onedark"/>
