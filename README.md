@@ -1,20 +1,20 @@
 <div float="left">
 
-## Jean Carlos Moissa 
+# Jean Carlos Moissa 
  
 <div>
-💻 Conhecimento:<br><br>
-Formação:<br>
+<h3>💻Conhecimento:</h3>
+<h4>Formação:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="40" margin-left="5px"><br><br>
-Linguagens:<br>
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="40" margin-left="5px">
+<h4>Linguagens:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="40" margin-left="5px">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="40" margin-left="5px"><br><br>
-Programas:<br>
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="40" margin-left="5px">
+<h4> Programas:</h4>
  <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/vs.png" width="40" margin-left="5px">
  <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/vscode.png" width="40" margin-left="5px">
 </div>
