@@ -9,6 +9,9 @@
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="40" margin-left="5px">
 -->
+
+ <a href="https://jeanmoissa.github.io/landing_page/">Landing Page<a>
+ 
 <h4>Linguagens:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="40" margin-left="5px">
