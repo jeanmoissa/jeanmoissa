@@ -3,12 +3,12 @@
 # Jean Carlos Moissa 
  
 <div>
-<!--
+
 <h3>💻Conhecimento:</h3>
 <h4>Formação:</h4>
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="40" margin-left="5px">
--->
+* Ciência da Computação <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px">
+* Desenvolvedor Full-Stack Junior <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="40" margin-left="5px">
+
  
 <h4>Languages:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
