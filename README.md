@@ -6,7 +6,8 @@
 
 <h3>💻Conhecimento:</h3>
 <h4>Formação:</h4>
-* Ciência da Computação <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px">
+
+* Ciência da Computação <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/unc.png" width="40" margin-left="5px"><br>
 * Desenvolvedor Full-Stack Junior <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/stackx.png" width="40" margin-left="5px">
 
  
