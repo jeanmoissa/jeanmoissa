@@ -4,6 +4,9 @@
  
 <div>
  
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmoissa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>  
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmoissa&layout=compact&langs_count=7&theme=onedark"/>
+ 
 <h4>Languages:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="40" margin-left="5px">
