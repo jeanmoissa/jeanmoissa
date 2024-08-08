@@ -4,17 +4,13 @@
  
 <div>
  
-<h4>Languages:</h4>
+<h4>Technology:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/asp.png" width="40" margin-left="5px">
-<h4> Programs:</h4>
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/vs.png" width="40" margin-left="5px">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/vscode.png" width="40" margin-left="5px">
-<h4> Database:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/sql-server.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="40" margin-left="5px">
 </div>
