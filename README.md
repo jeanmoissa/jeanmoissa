@@ -14,8 +14,6 @@
 <h4> Programs:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/vs.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/vscode.png" width="40" margin-left="5px">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/eclipse.png" width="40" margin-left="5px">
-<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/netbeans.png" width="40" margin-left="5px">
 <h4> Database:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/sql-server.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/mysql.png" width="40" margin-left="5px">
