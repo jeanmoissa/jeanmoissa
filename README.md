@@ -4,7 +4,7 @@
  
 <div>
  
-<h4>Technology:</h4>
+<h4>Technologies:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="40" margin-left="5px">
