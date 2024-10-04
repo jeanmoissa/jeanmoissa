@@ -8,6 +8,7 @@
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/javascript.png" width="40" margin-left="5px">
+<img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/nodejs.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/java.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/hashtag.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/asp.png" width="40" margin-left="5px">
