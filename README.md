@@ -3,11 +3,17 @@
 <h1 align="center">Hi there, I'm Jean Moissa 👋</h1>
 
 <p align="center">
- <a href="[https://linkedin.com/in/MoienTajik](https://www.linkedin.com/in/jeancarlosmoissa/)" target="_blank">
+ <a href="https://www.linkedin.com/in/jeancarlosmoissa/" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
  </a>
  
 <div>
+
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
  
 <h4>Technologies:</h4>
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
