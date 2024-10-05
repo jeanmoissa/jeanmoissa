@@ -1,6 +1,11 @@
 <div float="left">
 
 <h1 align="center">Hi there, I'm Jean Moissa 👋</h1>
+
+<p align="center">
+ <a href="[https://linkedin.com/in/MoienTajik](https://www.linkedin.com/in/jeancarlosmoissa/)" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
+ </a>
  
 <div>
  
