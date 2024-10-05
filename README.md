@@ -15,7 +15,6 @@
   </strong>
 </p>
  
-<h4>Technologies:</h4>
 <p align="center"> 
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/html.png" width="40" margin-left="5px">
 <img src="https://github.com/jeanmoissa/jeanmoissa/blob/main/files/css.png" width="40" margin-left="5px">
