@@ -1,6 +1,6 @@
 <div float="left">
 
-# Jean Carlos Moissa 
+<h1 align="center">Hi there, I'm Jean Moissa 👋</h1>
  
 <div>
  
